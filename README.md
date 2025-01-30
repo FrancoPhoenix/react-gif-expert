@@ -8,3 +8,8 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 First commit added
+
+Update testing
+Se tiene que poner estos archivos con la extension .cjs
+babel.config.cjs
+jest.config.cjs
